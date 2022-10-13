@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\iamja\\OneDrive\\Desktop\\301170222(patel)_Lab02\\301170222(patel)_Lab02\\301170222(patel)_Lab02\\301170222(patel)_Lab02.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\iamja\\OneDrive\\Desktop\\301170222(patel)_Lab02\\301170222(patel)_Lab02\\301170222(patel)_Lab02\\301170222(patel)_Lab02.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\iamja\\OneDrive\\Desktop\\301170222(patel)_Lab02\\301170222(patel)_Lab02\\301170222(patel)_Lab02\\301170222(patel)_Lab02.csproj",
+        "projectName": "301170222(patel)_Lab02",
+        "projectPath": "C:\\Users\\iamja\\OneDrive\\Desktop\\301170222(patel)_Lab02\\301170222(patel)_Lab02\\301170222(patel)_Lab02\\301170222(patel)_Lab02.csproj",
+        "packagesPath": "C:\\Users\\iamja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iamja\\OneDrive\\Desktop\\301170222(patel)_Lab02\\301170222(patel)_Lab02\\301170222(patel)_Lab02\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iamja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.7.3.45, )"
+            },
+            "Syncfusion.PdfViewer.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.59, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

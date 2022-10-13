@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "cDlaT9lQXO9+95xBxvzk8l3fogweBEm2mJI4RHlIJqWWK9VsrF2yMo8Qj6f7JqNM+J9Yn6CKLvWFOACnhOhGWg==",
+  "success": true,
+  "projectFilePath": "D:\\Centennial College Semester 3\\COMP306 - API Engineering and Cloud Comuting\\301170222(patel)_Lab02\\301170222(patel)_Lab02\\301170222(patel)_Lab02\\301170222(patel)_Lab02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iamja\\.nuget\\packages\\awssdk.core\\3.7.11.15\\awssdk.core.3.7.11.15.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.3.45\\awssdk.dynamodbv2.3.7.3.45.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\awssdk.s3\\3.7.9.15\\awssdk.s3.3.7.9.15.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\syncfusion.compression.base\\20.1.0.59\\syncfusion.compression.base.20.1.0.59.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\syncfusion.licensing\\20.1.0.59\\syncfusion.licensing.20.1.0.59.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\syncfusion.pdf.wpf\\20.1.0.59\\syncfusion.pdf.wpf.20.1.0.59.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\syncfusion.pdfviewer.wpf\\20.1.0.59\\syncfusion.pdfviewer.wpf.20.1.0.59.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\syncfusion.shared.wpf\\20.1.0.59\\syncfusion.shared.wpf.20.1.0.59.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
